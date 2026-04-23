@@ -6,7 +6,7 @@ Payslip is designed as a backend logic engine that processes salary inputs, appl
 
 ---
 
-## 🧠 System Overview
+##  System Overview
 
 At its core, Payslip transforms structured input data into a consistent financial output through a deterministic pipeline:
 Input Data → Validation → Computation Engine → Structured Output → Document Generation
@@ -21,12 +21,12 @@ Input Data → Validation → Computation Engine → Structured Output → Docum
 
 ---
 
-## ⚙️ Architecture
+##  Architecture
 
 ### 1. Input Layer
 - Accepts structured salary parameters:
   - Base salary
-  - Allowances / bonuses
+  - Allowances/bonuses
   - Tax rates
   - Deductions
 
@@ -59,7 +59,7 @@ All computations are:
 
 ---
 
-## 🔐 Security & Integrity Considerations
+## Security & Integrity Considerations
 
 Although Payslip operates off-chain, it is designed with principles aligned to secure financial systems:
 
@@ -81,7 +81,7 @@ Although Payslip operates off-chain, it is designed with principles aligned to s
 
 ---
 
-## 🔗 Relation to On-Chain Systems (Fundslip)
+##  Relation to On-Chain Systems (Fundslip)
 
 Payslip serves as a foundational step toward verifiable financial systems.
 
@@ -108,7 +108,7 @@ Future direction includes:
 
 ---
 
-## 🚀 Design Philosophy
+##  Design Philosophy
 
 Payslip is built with a systems-first mindset:
 
@@ -119,7 +119,7 @@ Payslip is built with a systems-first mindset:
 
 ---
 
-## 📦 Use Cases
+##  Use Cases
 
 - Payroll systems
 - Financial reporting tools
@@ -129,7 +129,7 @@ Payslip is built with a systems-first mindset:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Cryptographic hashing of outputs for integrity proofs
 - Integration with signature-based verification systems
@@ -138,7 +138,7 @@ Payslip is built with a systems-first mindset:
 
 ---
 
-## 📌 Summary
+##  Summary
 
 Payslip is not just a document generator — it is a **deterministic financial computation engine** designed to produce consistent, auditable, and structured outputs.
 
